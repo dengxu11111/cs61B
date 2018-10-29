@@ -1,1 +1,2 @@
-this is the cs61b lab
+﻿this is the cs61b lab
+你好吗
