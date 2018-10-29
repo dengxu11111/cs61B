@@ -1,2 +1,8 @@
 ﻿this is the cs61b lab
-你好吗
+git delete submodule
+
+
+git submodule deinit submodulename
+git rm submodulename
+git rm --cached submodulename
+rm -rf ./git/modules/submodulenameI
